@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\Coder\Documents\Clojure\Ex_Files_CodeClinic_Clojure\Ex_Files_CodeClinic_Clojure\Exercise Files\Ch1\01_03\start\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
